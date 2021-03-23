@@ -252,3 +252,8 @@ if instagrampy.PasswordFound():
 
 exit(0)
 Refer the Wiki to get full information about the api , https://github.com/deathsec/instagram-py/wiki
+
+Remediation
+Upgrade requests to version 2.20.0 or later. For example:
+
+requests>=2.20.0
