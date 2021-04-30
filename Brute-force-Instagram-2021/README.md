@@ -41,10 +41,3 @@ Usage of insTof for attacking targets without prior mutual consent is illegal. I
 - Contact me
 - Hey ? do you want ask about all my tools ? you can join me in [Telegram](https://T.me/flaah999)
 
-## Donations 
-
- <img src="https://www.up-00.com/i/00176/4gu5yi4fwmgt.jpg" width="30%"></img>
- 
- ## Download and Clone
- > Download: Click [Here](https://github.com/0xfff0800/Brute-force-Instagram-2020/archive/master.zip) (Brute-force-Instagram-2020.zip)
- 
