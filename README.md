@@ -4,7 +4,12 @@ Instagram-py performs slick brute force attack on Instagram without any type of 
 and also resumes your attack in ease.
 —DeathSec
 
-https://img.shields.io/github/issues/deathsec/instagram-py.svg?style=flat-square https://img.shields.io/github/forks/deathsec/instagram-py.svg?style=flat-square https://img.shields.io/github/stars/deathsec/instagram-py.svg?style=flat-square https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square https://img.shields.io/pypi/v/instagram-py.svg?style=flat-square
+https://img.shields.io/github/issues/deathsec/instagram-py.svg?style=flat-square https://img.shields.io/github/forks/deathsec/instagram-py.svg?style=flat-square 
+
+https://img.shields.io/github/stars/deathsec/instagram-py.svg?style=flat-square https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square 
+
+https://img.shields.io/pypi/v/instagram-py.svg?style=flat-square
+
 https://raw.githubusercontent.com/deathsec/instagram-py/v2.x.x/preview.gif
 
   
