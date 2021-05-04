@@ -4,14 +4,15 @@ Instagram-py performs slick brute force attack on Instagram without any type of 
 and also resumes your attack in ease.
 —DeathSec
 
-https://img.shields.io/github/issues/deathsec/instagram-py.svg?style=flat-square https://img.shields.io/github/forks/deathsec/instagram-py.svg?style=flat-square 
+https://img.shields.io/github/issues/deathsec/instagram-py.svg?style=flat-square 
 
-https://img.shields.io/github/stars/deathsec/instagram-py.svg?style=flat-square https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square 
+https://img.shields.io/github/forks/deathsec/instagram-py.svg?style=flat-square 
 
-https://img.shields.io/pypi/v/instagram-py.svg?style=flat-square
+https://img.shields.io/github/stars/deathsec/instagram-py.svg?style=flat-square 
 
 https://raw.githubusercontent.com/deathsec/instagram-py/v2.x.x/preview.gif
 
+![immagine](https://user-images.githubusercontent.com/56889513/117024083-f7d99c80-acf9-11eb-847b-639a42c67d52.png)
   
 Why?
 I Actually started this project for proof of concept that we can brute force Instagram forever.
