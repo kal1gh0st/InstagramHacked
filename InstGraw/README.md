@@ -83,7 +83,4 @@ You can use the script or parts in your own code. Please note that I am not a pr
 Again, use the scripts at your own risk. I am not reliable for any consequences. InstaCrawlR may only function for a limited time since Instagram is constantly changing their system. I will not necessarily support InstaCrawlR in the future.
 If you have any comments or suggestions you can reach me on LinkedIn. I am always looking forward to a nice conversation about the future of digital marketing, entrepreneurship, and data science.
 
-Best regards,
-Jonas Schröder
-University of Mannheim, July 2018
  
