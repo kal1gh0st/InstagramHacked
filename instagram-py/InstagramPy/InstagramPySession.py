@@ -1,6 +1,5 @@
 # The MIT License.
-# Copyright (C) 2017 The Future Shell , DeathSec.
-#
+
 # @filename    : InstagramPySession.py
 # @description : creates a new session , checks for configuration and gets critical data
 #                , loads save and saves data too.
