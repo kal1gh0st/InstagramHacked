@@ -1,6 +1,5 @@
 # The MIT License.
-# Copyright (C) 2017 The Future Shell , DeathSec.
-#
+
 # @filename    : setup.py
 # @description : The traditional setup.py script for
 #                Installation from pip or easy_install
