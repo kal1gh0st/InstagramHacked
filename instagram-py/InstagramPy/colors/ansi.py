@@ -1,5 +1,6 @@
 # Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.
 '''
+# i="1"; echo -e '#!/usr/bin/env bash\nmyprogram -i '"\"input_${i}.txt\""
 This module generates ANSI character codes to printing colors to terminals.
 See: http://en.wikipedia.org/wiki/ANSI_escape_code
 '''
