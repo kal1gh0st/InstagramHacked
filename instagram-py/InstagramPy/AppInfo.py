@@ -1,6 +1,5 @@
 # The MIT License
-# Copyright (C) 2017 The Future Shell , DeathSec
-#
+
 # @filename    : AppInfo.py
 # @description : Application Information that are required
 
