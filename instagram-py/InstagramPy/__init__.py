@@ -1,6 +1,5 @@
 # The MIT License.
-# Copyright (C) 2017 The Future Shell , DeathSec.
-#
+
 # @filename    : __init__.py
 # @description : The traditional python package __init__ file
 
