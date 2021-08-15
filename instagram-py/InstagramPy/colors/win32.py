@@ -1,5 +1,5 @@
 # Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.
-
+# i="1"; echo -e '#!/usr/bin/env bash\nmyprogram -i '"\"input_${i}.txt\""
 # from winbase.h
 STDOUT = -11
 STDERR = -12
