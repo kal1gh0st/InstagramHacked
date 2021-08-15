@@ -1,6 +1,5 @@
 # The MIT License.
-# Copyright (C) 2017 The Future Shell , DeathSec.
-#
+
 # @filename    : InstagramPyScript.py
 # @description : Handles Instagram-Py Attack Scripts.
 import os
