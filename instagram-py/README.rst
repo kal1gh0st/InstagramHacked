@@ -5,7 +5,6 @@
     | Instagram-py performs slick brute force attack on Instagram without any type of password limiting
     | and also resumes your attack in ease. 
     
-    --DeathSec
 
 
 .. image:: https://img.shields.io/github/issues/deathsec/instagram-py.svg?style=flat-square   
@@ -420,6 +419,4 @@ This is a simple script to conduct a bructe force attack using instagram-py as a
    License
 =============
 
-The MIT License,
-
-Copyright (C) 2017 The Future Shell , DeathSec
+The MIT License
