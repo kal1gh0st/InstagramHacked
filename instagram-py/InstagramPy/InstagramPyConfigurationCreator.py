@@ -1,6 +1,5 @@
 # The MIT License.
-# Copyright (C) 2017 The Future Shell , DeathSec.
-#
+
 # @filename    : InstagramPyConfigurationCreator.py
 # @description : Create a Configuration file for Instagram-Py with ease.
 import os
