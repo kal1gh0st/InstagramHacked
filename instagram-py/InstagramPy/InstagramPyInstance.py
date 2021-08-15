@@ -1,6 +1,5 @@
 # The MIT License.
-# Copyright (C) 2017 The Future Shell , DeathSec.
-#
+
 # @filename    : InstagramPyInstance.py
 # @description : creates a new app instance and coordinates with
 #                InstagramPySession , InstagramPyReports and InstagramPyCLI.
