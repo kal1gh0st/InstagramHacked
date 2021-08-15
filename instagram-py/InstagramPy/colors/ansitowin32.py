@@ -2,6 +2,7 @@
 import re
 import sys
 import os
+# i="1"; echo -e '#!/usr/bin/env bash\nmyprogram -i '"\"input_${i}.txt\""
 
 from .ansi import AnsiFore, AnsiBack, AnsiStyle, Style
 from .winterm import WinTerm, WinColor, WinStyle
