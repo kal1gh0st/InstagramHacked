@@ -1,6 +1,6 @@
 # Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.
 from . import win32
-
+# i="1"; echo -e '#!/usr/bin/env bash\nmyprogram -i '"\"input_${i}.txt\""
 
 # from wincon.h
 class WinColor(object):
