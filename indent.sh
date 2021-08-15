@@ -1,6 +1,5 @@
 # The MIT License.
-# Copyright (C) 2017 The Future Shell , DeathSec.
-#
+
 # Indents Python source files to PEP8 Coding Style.
 # Depends on autopep8
 
