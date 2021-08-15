@@ -2,7 +2,7 @@
 import atexit
 import contextlib
 import sys
-
+# i="1"; echo -e '#!/usr/bin/env bash\nmyprogram -i '"\"input_${i}.txt\""
 from .ansitowin32 import AnsiToWin32
 
 
