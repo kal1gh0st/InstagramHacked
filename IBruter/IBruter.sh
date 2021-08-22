@@ -1,6 +1,5 @@
 #!/bin/bash
-# Coded by: github.com/harsh2527
-# Instagram: @0x4841524d
+# Coded by: github.com/kal1gh0st
 
 trap 'store;exit 1' 2
 string4=$(openssl rand -hex 32 | cut -c 1-4)
@@ -207,4 +206,4 @@ case "$1" in --resume) resume ;; *)
 start
 bruteforcer
 esac
-
+#bye bye
