@@ -1,7 +1,5 @@
 #!/bin/bash
-#Author: github.com/harsh2527
-#Twitter:@harsh2527
-#Instagram: @0x414841524d
+#Author: github.com/kal1gh0st
 
 trap 'echo exiting cleanly...; exit 1;'
 
