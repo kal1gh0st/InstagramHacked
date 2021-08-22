@@ -14,7 +14,7 @@
 
 ### apt-get install tor
 
-### git clone https://github.com/Ha3MrX/InstaBrute
+### git clone https://github.com/kal1gh0st/InstagramHacked/InstaBrute
 
 ### cd InstaBrute
 
@@ -25,10 +25,6 @@
 ### screenshot
 
 ![capture](https://user-images.githubusercontent.com/33704360/39670422-5738279c-510d-11e8-9f6d-a8e24114a510.PNG)
-
-### YouTube Channel
-
-### https://www.youtube.com/c/HA-MRX
 
 ### Viddeo Tutorial
 
