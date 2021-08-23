@@ -24,7 +24,7 @@
 
 ### screenshot
 
-![capture](https://user-images.githubusercontent.com/33704360/39670422-5738279c-510d-11e8-9f6d-a8e24114a510.PNG)
+![immagine](https://user-images.githubusercontent.com/56889513/130491562-04895b55-c053-428c-b48d-67719f19137a.png)
 
 ### Viddeo Tutorial
 
