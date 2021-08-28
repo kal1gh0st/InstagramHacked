@@ -30,6 +30,7 @@ Note: You must use python3.6 or greater due to the use of "f" strings
 1. `pip3 install -r requirements.txt`
 2. `python3 main.py --username USERNAME`
 
+![Cattura](https://user-images.githubusercontent.com/56889513/131213471-bebf5f4e-dcef-4275-b0f6-29cc74a16ea8.JPG)
 
 Please note that InstagramOSINT.py is for importing as python module, this is for use in custom applications and not to be run from the command line
 
