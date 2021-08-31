@@ -1,5 +1,4 @@
-# The MIT License.
-
+# Kal1gh0st
 # @filename    : setup.py
 # @description : The traditional setup.py script for
 #                Installation from pip or easy_install
