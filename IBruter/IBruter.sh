@@ -43,7 +43,7 @@ fi
 banner() {
 
 
-printf "\e[1;77m\e[45m  IBruter v1.0 Author: https://github.com/harsh2527    \e[0m\n"
+printf "\e[1;77m\e[45m  IBruter v1.0 Author: https://github.com/kal1gh0st    \e[0m\n"
 printf "\n"
 }
 
