@@ -24,6 +24,10 @@ chmod +x IBruter.sh
 sudo ./IBruter.sh
 ```
 
+![Cattura](https://user-images.githubusercontent.com/56889513/131633510-836e9ef0-09e7-4a7a-9e87-6e4e989c5b6d.JPG)
+
+![immagine](https://user-images.githubusercontent.com/56889513/131633449-25bfdb0b-9440-4bbe-ae14-bafc4eb9a702.png)
+
 ### Install requirements (Curl & TOR):
 
 ```
