@@ -1,3 +1,0 @@
-Instagram Bruteforce Checker
-       
-THE APPLICATION NEEDS ADMIN PRIVILEGES TO RUN PROPERLY 
