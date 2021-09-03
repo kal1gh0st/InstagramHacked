@@ -1,3 +1,0 @@
-Instagram Account Checker v1.0
-       
-THE APPLICATION NEEDS ADMIN PRIVILEGES TO RUN PROPERLY 
