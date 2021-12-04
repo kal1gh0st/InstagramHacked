@@ -23,10 +23,6 @@
       :target: #
 
 
-
-  
-.. image:: https://raw.githubusercontent.com/deathsec/instagram-py/v2.x.x/preview.gif
-
 .. image:: http://forthebadge.com/images/badges/built-with-love.svg
       :target: #
 .. image:: http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg
